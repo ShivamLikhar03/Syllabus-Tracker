@@ -2,6 +2,8 @@
 
 A modern web application designed to help students and educators efficiently manage and track academic progress through their syllabus.
 
+![image](https://github.com/user-attachments/assets/d5381701-a00a-4f12-9d17-122de56efd30)
+
 ## Features
 
 - **Timeline View**: Visual representation of syllabus items and deadlines
